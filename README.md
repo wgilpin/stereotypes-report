@@ -38,3 +38,7 @@ There were however a few interesting patterns worth pointing out, all of which a
 - Richer nations to skip fewer meals for work. I know I rarely do! 
 
 Discussion of all these is to be found in the [blog post](https://medium.com/@wgilpin/stereotypes-meet-data-933ff18ed30)
+
+### Acknowledgements
+
+No other students or their projects were consulted in the creation of this work, however Stack Overflow itself was consulted regularly to solve specific small tasks with pandas, primarily. For example [filtering outliers][https://stackoverflow.com/questions/23199796/detect-and-exclude-outliers-in-pandas-dataframe] and the [conversion of CIA Factbook data into CSV format](https://github.com/thewiremonkey/factbook.csv)
